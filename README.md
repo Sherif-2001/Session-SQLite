@@ -1,6 +1,6 @@
-# sqlite_demo
+# NOTES SQLlite APP
 
-A new Flutter project.
+This is a flutter project that uses SQLite to make a Todo app with notes
 
 ## Getting Started
 
